@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olahe\\MinApp\\MinApp.csproj": {}
+    "C:\\Projects\\c-.net-Learnig\\MinApp\\MinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olahe\\MinApp\\MinApp.csproj": {
+    "C:\\Projects\\c-.net-Learnig\\MinApp\\MinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olahe\\MinApp\\MinApp.csproj",
+        "projectUniqueName": "C:\\Projects\\c-.net-Learnig\\MinApp\\MinApp.csproj",
         "projectName": "MinApp",
-        "projectPath": "C:\\Users\\olahe\\MinApp\\MinApp.csproj",
+        "projectPath": "C:\\Projects\\c-.net-Learnig\\MinApp\\MinApp.csproj",
         "packagesPath": "C:\\Users\\olahe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olahe\\MinApp\\obj\\",
+        "outputPath": "C:\\Projects\\c-.net-Learnig\\MinApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olahe\\AppData\\Roaming\\NuGet\\NuGet.Config"
